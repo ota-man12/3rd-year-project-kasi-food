@@ -22,9 +22,15 @@
 - New Grocery Screen
 - Animated GIFs
 - Deployed on EXPO (So anyone can preview the app by scanning QR code)
-- And a lot more... (please preview the app with EXPO Go app or Watch the video)
+- And a lot more... (please preview the app with EXPO Go)
 
 
 ### APIs
 
 - Stripe payment
+
+### How to Run App
+
+- npm install --global yarn
+- npm install
+- yarn start
